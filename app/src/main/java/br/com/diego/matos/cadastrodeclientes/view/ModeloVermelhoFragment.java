@@ -33,7 +33,7 @@ public class ModeloVermelhoFragment extends Fragment {
 
         view =  inflater.inflate(R.layout.fragment_vermelho, container, false);
 
-        TextView txtTitulo = view.findViewById(R.id.txtTitulo);
+        TextView txtTitulo = view.findViewById(R.id.txtTituloListar);
 
         txtTitulo.setText(R.string.modelo_fragment);
 

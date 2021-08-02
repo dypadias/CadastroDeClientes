@@ -13,11 +13,9 @@
     <string name="modelo_fragment">Cliente VIP DEMO</string>
 
     <!-- Opções do Menu Lateral Drawer -->
-    <string name="fragmento_adicinar_cliente">Adicionar Cliente</string>
-    <string name="fragmento_adicinar_cliente_cards">Adicionar Cliente(CARD)</string>
-    <string name="fragmento_listar_clientes">Listar Clientes</string>
-    <string name="fragmento_listar_clientes_cards">LISTA DE CLIENTES</string>
 
+    <string name="fragmento_adicinar_cliente_cards">ADICIONAR CLIENTES</string>
+    <string name="fragmento_listar_clientes_cards">LISTA DE CLIENTES</string>
     <string name="fragmento_preto">Fragmento Preto</string>
     <string name="fragmento_vermelho">Fragmento Vermelho</string>
 
@@ -30,6 +28,16 @@
     <!-- Textos para o Layout Adicionar Novo Cliente -->
     <string name="txtPerfilContato">Perfil e Contato</string>
     <string name="txtEndereco">Endereço</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="txtTelefone">Telefone</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtCep">Cep</string>
+    <string name="txtLogradouro">Logradouro</string>
+    <string name="txtNumero">Número</string>
+    <string name="txtBairro">Bairro</string>
+    <string name="txtCidade">Cidade</string>
+    <string name="txtEstado">Estado</string>
+    <string name="txtTermos_de_uso">Termos de Uso</string>
 
 
 </resources>

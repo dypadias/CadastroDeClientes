@@ -14,7 +14,6 @@ import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
 
-
 import app.br.com.matos.cadastrodeclientes.R;
 import br.com.diego.matos.cadastrodeclientes.controller.ClienteController;
 import br.com.diego.matos.cadastrodeclientes.model.Cliente;
@@ -70,7 +69,7 @@ public class AdicionarClienteCardsFragment extends Fragment {
      */
     private void iniciarComponentesDeLayout() {
 
-        txtTitulo = view.findViewById(R.id.txtTitulo);
+        txtTitulo = view.findViewById(R.id.txtTituloAdicionar);
         txtTitulo.setText(R.string.fragmento_adicinar_cliente_cards);
 
         editNomeCompleto = view.findViewById(R.id.editNomeCompleto);

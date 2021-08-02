@@ -61,7 +61,7 @@ public class ListarClientesCardsFragment extends Fragment {
 
         view =  inflater.inflate(R.layout.fragment_listar_clientes_cards, container, false);
 
-        TextView txtTitulo = view.findViewById(R.id.txtTitulo);
+        TextView txtTitulo = view.findViewById(R.id.txtTituloListar);
 
         txtTitulo.setText(R.string.fragmento_listar_clientes_cards);
 
