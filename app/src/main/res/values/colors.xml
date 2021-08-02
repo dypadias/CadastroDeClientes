@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7614B3</color>
+    <color name="colorPrimaryDark">#9D51BD</color>
+
+
+    <!-- cores do background das telas -->
+    <color name="colorTitulo">#F3F3F6</color>
+    <color name="preto">#000000</color>
+    <color name="azul">#07487C</color>
+    <color name="Background">#0C0B0C</color>
+
+    <!-- cores para os campos dos layouta -->
+
+
+</resources>
