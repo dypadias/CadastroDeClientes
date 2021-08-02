@@ -23,7 +23,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:text="Cliente Empreendedor"
-        android:textColor="@color/colorTitulo" />
+        android:textColor="@color/colorTituloInit" />
 
     <TextView
         android:id="@+id/txtVersion"
@@ -31,7 +31,7 @@
         android:layout_gravity="center"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:textColor="@color/colorTitulo"
+        android:textColor="@color/colorTituloInit"
         android:text="Version 1.0" />
 
 

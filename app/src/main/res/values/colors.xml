@@ -5,7 +5,8 @@
 
 
     <!-- cores do background das telas -->
-    <color name="colorTitulo">#F3F3F6</color>
+    <color name="colorTituloInit">#F3F3F6</color>
+    <color name="colorTexto">#030342</color>
     <color name="preto">#000000</color>
     <color name="azul">#07487C</color>
     <color name="Background">#0C0B0C</color>

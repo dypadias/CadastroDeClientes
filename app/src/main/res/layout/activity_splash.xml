@@ -24,7 +24,7 @@
         android:layout_marginTop="20dp"
         android:layout_width="wrap_content"
         android:text="@string/titulo_splash"
-        android:textColor="@color/colorTitulo" />
+        android:textColor="@color/colorTituloInit" />
 
     <TextView
         android:id="@+id/txtVersion"
@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_width="wrap_content"
-        android:textColor="@color/colorTitulo"
+        android:textColor="@color/colorTituloInit"
         android:text="@string/version" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>

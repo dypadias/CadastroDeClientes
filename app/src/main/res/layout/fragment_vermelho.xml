@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorTitulo"
+    android:background="@color/colorTituloInit"
     tools:context=".view.ModeloVermelhoFragment">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_marginTop="30sp"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:textColor="@color/colorTitulo"
+        android:textColor="@color/colorTituloInit"
          />
 
 </FrameLayout>

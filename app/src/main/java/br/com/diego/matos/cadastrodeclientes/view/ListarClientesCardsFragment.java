@@ -20,7 +20,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-
 import app.br.com.matos.cadastrodeclientes.R;
 import br.com.diego.matos.cadastrodeclientes.controller.ClienteController;
 import br.com.diego.matos.cadastrodeclientes.model.Cliente;
@@ -67,7 +66,7 @@ public class ListarClientesCardsFragment extends Fragment {
         txtTitulo.setText(R.string.fragmento_listar_clientes_cards);
 
         // Trocar a cor da propriedade texto (setTextColor)
-        txtTitulo.setTextColor(ColorStateList.valueOf(Color.RED));
+        txtTitulo.setTextColor(ColorStateList.valueOf(Color.BLACK));
 
         clienteController = new ClienteController(getContext());
 

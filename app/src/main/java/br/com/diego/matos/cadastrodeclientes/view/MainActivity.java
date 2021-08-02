@@ -18,7 +18,6 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationView;
 import com.google.android.material.snackbar.Snackbar;
 
-
 import app.br.com.matos.cadastrodeclientes.R;
 import br.com.diego.matos.cadastrodeclientes.controller.ClienteController;
 
@@ -75,7 +74,7 @@ public class MainActivity extends AppCompatActivity
         fragmentManager = getSupportFragmentManager();
 
         // content_fragment usado para receber os layouts dos fragmentos
-        fragmentManager.beginTransaction().replace(R.id.content_fragment, new ListarClientesFragment()).commit();
+        fragmentManager.beginTransaction().replace(R.id.content_fragment, new ListarClientesCardsFragment()).commit();
 
 
         ClienteController clienteController = new ClienteController(getBaseContext());

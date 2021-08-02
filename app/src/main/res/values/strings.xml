@@ -3,7 +3,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Cliente</string>
-    <string name="nav_header_subtitle">Profº Marco Maddo</string>
+    <string name="nav_header_subtitle">Dev Diego Matos</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Sair</string>
     <string name="titulo_splash">Cadastro de Clientes</string>
@@ -16,7 +16,7 @@
     <string name="fragmento_adicinar_cliente">Adicionar Cliente</string>
     <string name="fragmento_adicinar_cliente_cards">Adicionar Cliente(CARD)</string>
     <string name="fragmento_listar_clientes">Listar Clientes</string>
-    <string name="fragmento_listar_clientes_cards">Listar Clientes (Cards)</string>
+    <string name="fragmento_listar_clientes_cards">LISTA DE CLIENTES</string>
 
     <string name="fragmento_preto">Fragmento Preto</string>
     <string name="fragmento_vermelho">Fragmento Vermelho</string>

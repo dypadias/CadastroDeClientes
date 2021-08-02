@@ -41,7 +41,7 @@
                         android:layout_margin="16dp"
                         android:gravity="center"
                         android:text="@string/fragmento_adicinar_cliente_cards"
-                        android:textColor="@color/colorTitulo"
+                        android:textColor="@color/colorTituloInit"
                         android:textSize="24sp"
                         android:textStyle="bold" />
 
@@ -70,7 +70,7 @@
                         android:layout_margin="16dp"
                         android:gravity="center"
                         android:text="@string/txtPerfilContato"
-                        android:textColor="@color/colorTitulo"
+                        android:textColor="@color/colorTituloInit"
                         android:textSize="24sp"
                         android:textStyle="bold" />
 
@@ -142,7 +142,7 @@
                         android:layout_margin="16dp"
                         android:gravity="center"
                         android:text="@string/txtEndereco"
-                        android:textColor="@color/colorTitulo"
+                        android:textColor="@color/colorTituloInit"
                         android:textSize="24sp"
                         android:textStyle="bold" />
 
